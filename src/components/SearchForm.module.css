@@ -1,0 +1,16 @@
+.container {
+  overflow: hidden;
+  height: 605px;
+  overflow: hidden;
+  margin-top: 15px;
+}
+
+.searchInput {
+  margin: 10px 10px 2px;
+  border: none;
+  border-bottom: 2px solid gray;
+  width: calc(100% - 20px);
+  box-sizing: border-box;
+  outline: none;
+  padding: 10px;
+}

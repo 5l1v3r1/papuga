@@ -1,0 +1,31 @@
+.container {
+  margin: 0 10px;
+  overflow: hidden;
+}
+
+.swapLink {
+  color: gray;
+  text-decoration: none;
+  margin-right: 5px;
+  font-size: 0.7em;
+  display: inline-block;
+}
+
+.switcher {
+  float: right;
+  margin-top: 6px;
+  font-size: 0.8em;
+  color: gray;
+}
+
+.logo {
+  float: left;
+  position: absolute;
+}
+
+.logo i {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.4em;
+  letter-spacing: -2px;
+}
