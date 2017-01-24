@@ -1,6 +1,6 @@
 .container {
   overflow: hidden;
-  height: 605px;
+  height: 630px;
   overflow: hidden;
   margin-top: 15px;
 }
@@ -12,6 +12,7 @@
   width: calc(100% - 20px);
   box-sizing: border-box;
   outline: none;
-  padding: 10px;
+  padding: 15px 10px;
   font-size: 1em;
+  border-radius: 0;
 }

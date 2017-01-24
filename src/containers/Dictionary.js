@@ -1,13 +1,14 @@
 import React, { Component } from 'react';
 import { debounce, uniq } from 'lodash';
+import fetch from 'isomorphic-fetch';
 
 import Layout from '../components/Layout.js';
 import SearchForm from '../components/SearchForm.js';
 
 const store = {
   trie: {
-    en: [],
-    pl: [],
+    en: {},
+    pl: {},
   },
 };
 
