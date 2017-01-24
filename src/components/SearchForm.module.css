@@ -8,7 +8,7 @@
 .searchInput {
   margin: 15px 10px 2px;
   border: none;
-  border-bottom: 2px solid gray;
+  border-bottom: 2px solid #b8b8b8;
   width: calc(100% - 20px);
   box-sizing: border-box;
   outline: none;
